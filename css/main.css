@@ -4,7 +4,7 @@
 }
 
 @media only screen and (max-width:632px) {
-    .starter-template {  padding: 10px 0px; }
+    .starter-template {  padding: 25px 10px; }
 }
 
 img.avatar {
@@ -60,9 +60,9 @@ body {
   background-color: #ced6eb;
 }
 
-/* only while the left menu is empty */
+/* Set to 0px if the left menu is empty */
 .navbar-default .navbar-left {
-    height: 0px;
+    height: 110px;
 }
 
 .container {
