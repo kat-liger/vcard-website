@@ -1,5 +1,5 @@
 .starter-template {
-  padding: 100px 15px;
+  padding: 0px 15px;
   text-align: center;
 }
 
@@ -39,7 +39,7 @@ body {
 .navbar-static-top {
   margin-bottom: 19px;
   background-color: white;
-  font-size: 0.8em;
+  font-size: 0.95em;
 }
 
 .navbar-default .navbar-right > .active > a, .navbar-default .navbar-right > li > a:hover {
