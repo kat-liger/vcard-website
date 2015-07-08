@@ -3,9 +3,9 @@
   text-align: center;
 }
 
-@media only screen and (max-width:632px) {
+/*@media only screen and (max-width:632px) {
     .starter-template {  padding: 25px 10px; }
-}
+}*/
 
 img.avatar {
  border-radius: 15%;   
@@ -23,17 +23,6 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 17px;
   font-weight: 300; 
-}
-
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 35px;
-  background-image: url("../images/mydots.jpg");
-  background-repeat: repeat-x;
-  padding: 5px;
 }
 
 .navbar-static-top {
@@ -67,9 +56,21 @@ body {
 
 .container {
     max-width: 960px;
-    min-width: 350px;
+    /*min-width: 350px;*/
 }
 
 .navbar-static-top {
    border-width: 0px;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 35px;
+  background-image: url("../images/mydots.jpg");
+  background-repeat: repeat-x;
+  padding: 5px;
+}
+
