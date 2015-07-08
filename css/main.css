@@ -1,10 +1,6 @@
 .starter-template {
-  padding: 0px 15px;
+  padding-bottom: 30px;
   text-align: center;
-}
-
-@media only screen and (max-width:632px) {
-    .starter-template {  padding: 25px 10px; }
 }
 
 img.avatar {
