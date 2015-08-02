@@ -5,6 +5,13 @@
 
 img.avatar {
  border-radius: 15%;   
+    
+}
+
+.avatar-div {
+ margin: auto;
+ padding-right: 10px; 
+ padding-left: 10px;
 }
 
 html {
@@ -70,3 +77,6 @@ body {
   
 }
 
+div.row {
+    margin-bottom: 50px;
+}
